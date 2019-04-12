@@ -5,7 +5,7 @@
 
     <modelVersion>4.0.0</modelVersion>
     <artifactId>galaxy-cache-redis</artifactId>
-    <name>Galaxy :: Cache</name>
+    <name>Galaxy :: Cache :: Redis</name>
     <packaging>jar</packaging>
 
     <parent>

@@ -20,5 +20,6 @@
     <modules>
         <module>galaxy-parent</module>
         <module>galaxy-cache-redis</module>
+        <module>galaxy-mq-activemq</module>
     </modules>
 </project>

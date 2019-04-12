@@ -1,4 +1,4 @@
-package io.fighter.galaxy.cache;
+package io.fighter.galaxy.redis;
 
 import org.springframework.beans.factory.annotation.Autowired;
 import org.springframework.data.redis.core.ListOperations;
